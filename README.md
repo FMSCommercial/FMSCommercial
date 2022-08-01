@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pablo from @FMSCommercial.
 - 👀 I’m interested in creating web based applications to help streamline buisness processes.
-- 🌱 I’m currently learning React and Electron.
 - 💞️ I’m looking to collaborate on Adelaide based & remote IT projects.
 
 <!---
